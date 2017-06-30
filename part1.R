@@ -7,7 +7,7 @@ require(ggplot2)
 # We will create 1000 samples of size 40 each from this distribution and 
 # calulate the mean value of each one (X'_i for i=1,2,...1000). 
 # We will then use these 1000 simulated 
-# sample means to investigate key parameters of the distribution of sample mean 
+# sample means to investigate key parameters of the distribution of the sample mean 
 # and compare to the parameters of the theoretical distribution. 
 # We will also show that the sample means are approximately normally distributed.
 
@@ -21,7 +21,7 @@ my_lambda = 0.2
 n = 40
 nsim = 1000
 
-# Set a seed for the sake of reproducibility
+# set a seed for the sake of reproducibility
 set.seed(365)
 
 # known theoretical population parameters of the exponential distribution
