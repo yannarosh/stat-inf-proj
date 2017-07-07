@@ -3,8 +3,10 @@ title: "Statistical Inference - Course Project - Part 2 - Basic Inferential Data
 author: "Ioannis Moros"
 date: "01/07/2017"
 output:
+  pdf_document: 
+    fig_height: 3
+    fig_width: 4
   html_document: default
-  pdf_document: default
 ---
 
 ## R Setup

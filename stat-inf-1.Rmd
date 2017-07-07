@@ -3,8 +3,8 @@ title: "Statistical Inference - Course Project - Part 1 - Simulation Exercise"
 author: "Ioannis Moros"
 date: "01/07/2017"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ## R Setup
